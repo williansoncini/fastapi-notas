@@ -1,5 +1,3 @@
-![](https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif)
-
 - [FastAPI](#fastapi)
 - [Venv](#venv)
   - [**Criando ambiente** virtual](#criando-ambiente-virtual)
